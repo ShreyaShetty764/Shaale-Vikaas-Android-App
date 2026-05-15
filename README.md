@@ -77,3 +77,18 @@ The goal is to create a community-driven system for improving educational enviro
 ![Hall of Fame](assets/hall-of-fame.jpeg)
 
 
+## 🚀 Run Instructions
+
+1. Clone the repository:
+git clone https://github.com/your-username/Shaale-Vikaas-Android-App.git
+2. Open the project in Android Studio  
+3. Sync Gradle files  
+4. Add your own Firebase `google-services.json` file inside the `/app` folder  
+5. Click **Run ▶️** to launch the app on emulator/device
+
+## 👨‍💻 Author
+
+**Name:** Shreya Shetty  
+**Course:** Computer Science Engineering  
+**Internship:** Android Development Intern  
+**Project:** Shaale-Vikas Android App    
