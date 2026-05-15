@@ -52,3 +52,28 @@ The goal is to create a community-driven system for improving educational enviro
 - Coil (Image loading)
 - SharedPreferences (local storage)
 - Material 3 UI
+
+  ## Screenshots
+
+### Welcome Screen
+![Welcome](assets/welcome.jpeg)
+
+### Admin Console
+![Admin Console](assets/admin-console.jpeg)
+
+### Adding School Needs
+![Adding School Needs](assets/adding-school-needs.jpeg)
+
+### View School Needs
+![View School Needs](assets/view-school-needs.jpeg)
+
+### Alumni Dashboard
+![Alumni Screen](assets/alumni-screen.jpeg)
+
+### ImpactGallery
+![Impact Gallery](assets/impact-gallery.jpeg)
+
+### Hall of Fame
+![Hall of Fame](assets/hall-of-fame.jpeg)
+
+
