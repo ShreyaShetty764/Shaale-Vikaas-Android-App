@@ -80,7 +80,7 @@ The goal is to create a community-driven system for improving educational enviro
 ## 🚀 Run Instructions
 
 1. Clone the repository:
-git clone https://github.com/your-username/Shaale-Vikaas-Android-App.git
+git clone https://github.com/ShreyaShetty764/Shaale-Vikaas-Android-App.git
 2. Open the project in Android Studio  
 3. Sync Gradle files  
 4. Add your own Firebase `google-services.json` file inside the `/app` folder  
